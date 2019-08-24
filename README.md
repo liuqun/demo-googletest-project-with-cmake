@@ -1,6 +1,7 @@
-# 安装 googletest 开发工具包 (libgtest-dev/libgmock-dev)
+# 安装 googletest 开发工具包 (libgtest-dev)
+Ubuntu 18.04
 ```
-sudo apt-get install -y googletest libgtest-dev libgmock-dev
+sudo apt-get install -y googletest libgtest-dev google-mock
 ```
 
 # 安装 CMake
